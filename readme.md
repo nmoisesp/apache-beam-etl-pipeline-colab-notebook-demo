@@ -1,4 +1,4 @@
-# Apache Beam ETL Pipeline & Spring Boot Rest API Demo
+# Apache Beam pipeline & Python
 
 USE CASE:
 
@@ -8,7 +8,7 @@ USE CASE:
 
 ### Prerequisites to run this application:
 
-* Google Colab or Local python with Apache Beam dependencies
+* Google Colab or Local python environment with Apache Beam direct runner
 
 ### Keep in touch:
 Nicholas Moises: 

@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 pip install apache-beam[interactive]
 
-# @title Apache Beam ETL Pipeline: CSV file processing (movielist.csv)
 import apache_beam as beam
 import re
 import apache_beam.runners.interactive.interactive_beam as ib
